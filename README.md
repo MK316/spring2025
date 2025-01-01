@@ -1,4 +1,4 @@
-# 🌳 Spring2025
+# 🌳 Spring 2025
 
 |Classes|Credits|Level|Meeting Time|Digital Classroom link|
 |--|--|--|--|--|
